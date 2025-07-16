@@ -1,3 +1,5 @@
+![Nijika](./assets/nijika-flow.png)
+
 # Nijika AI Agent Framework
 
 A dynamic, industry-agnostic AI agent framework designed for seamless integration across multiple AI providers and models.

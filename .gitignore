@@ -9,3 +9,7 @@ __pycache__/
 *.db 
 
 nijika.egg-info/
+
+dist/
+build/
+

@@ -35,7 +35,7 @@ async def main():
             {
                 "name": "openai",
                 "provider_type": ProviderType.OPENAI,
-                "api_key": "sk-svcacct-bClcaltsEV3owFsBOb9qT3BlbkFJ0txPNVMpb1a51l6idnI8",
+                "api_key": "sk-60oUxU9eWXIhtP-i4hGsgS6LFVB80n3fHEi3n23tTqT3BlbkFJQ706d_iNWtf9PQz51WEs40p7vRo_c9ebWjZnLH5M4A",
                 "model": "gpt-3.5-turbo"
             }
         ],

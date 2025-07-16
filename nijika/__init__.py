@@ -14,7 +14,7 @@ from .tools.registry import ToolRegistry
 from .rag.system import RAGSystem
 from .planning.planner import PlanningEngine
 
-__version__ = "0.1.0"
+__version__ = "1.0.0"
 __author__ = "Nijika Team"
 __email__ = "support@nijika.ai"
 

@@ -1,0 +1,32 @@
+include README.md
+include LICENSE
+include CHANGELOG.md
+include CONTRIBUTING.md
+include ARCHITECTURE.md
+include requirements.txt
+include pyproject.toml
+recursive-include nijika *.py
+recursive-include nijika *.yaml
+recursive-include nijika *.json
+recursive-include nijika/templates *
+recursive-include nijika/static *
+recursive-include nijika/ui/templates *
+recursive-include docs *.md
+recursive-include docs *.rst
+recursive-include examples *.py
+recursive-include examples *.md
+recursive-include examples *.yaml
+recursive-include examples *.json
+exclude venv/*
+exclude .venv/*
+exclude .git/*
+exclude .pytest_cache/*
+exclude __pycache__/*
+exclude *.pyc
+exclude .DS_Store
+exclude .gitignore
+exclude demo_memory.db
+exclude nijika.egg-info/*
+global-exclude *.pyc
+global-exclude __pycache__
+global-exclude .DS_Store 
